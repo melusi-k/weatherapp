@@ -6,7 +6,7 @@
             "sizes": "512/512",
             "type": "image/png"
         }
-   ]
+   ],
   "short_name": "NYC Weather",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
