@@ -2,10 +2,8 @@
   "name": "NYC Weather",
   "manifest_version": 1,
   "version": "0.1",
-
-  // Recommended
   "default_locale": "en",
-  "description": "A plain text description",
+  "description": "A weather app where users can get weather information in real-time.",
   "app": {
     "background": {
       "scripts": ["background.js"]
@@ -21,7 +19,7 @@
   "short_name": "NYC Weather",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "browser",
+  "display": "standalone",
   "scope": "/",
   "start_url": "/index.html"
 }
