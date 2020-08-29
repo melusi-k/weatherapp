@@ -1,5 +1,16 @@
 {
   "name": "NYC Weather",
+  "manifest_version": 1,
+  "version": "0.1",
+
+  // Recommended
+  "default_locale": "en",
+  "description": "A plain text description",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
   "icons": [
            {
             "src": "icons/icon.png",
