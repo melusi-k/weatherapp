@@ -1,5 +1,12 @@
 {
   "name": "NYC Weather",
+  "icons": [
+           {
+            "src": "icon/icon.png",
+            "sizes": "512/512",
+            "type": "image/icon"
+        }
+   ]
   "short_name": "NYC Weather",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
