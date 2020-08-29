@@ -2,9 +2,9 @@
   "name": "NYC Weather",
   "icons": [
            {
-            "src": "icon/icon.png",
+            "src": "icons/icon.png",
             "sizes": "512/512",
-            "type": "image/icon"
+            "type": "image/png"
         }
    ]
   "short_name": "NYC Weather",
